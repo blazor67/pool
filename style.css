@@ -16,3 +16,11 @@ img{
 #controlli{
     float:right;
 }
+
+@media only screen and (max-width: 830px){
+    #controlli{
+        
+        position: absolute;
+        bottom:0;
+    }
+}
