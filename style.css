@@ -1,0 +1,18 @@
+img{
+    height:90vh;
+    position: absolute;
+      top: 0;
+      left: 0;
+}
+
+#pimg{
+    filter:hue-rotate(0deg);
+}
+
+#simg{
+    filter:hue-rotate(0deg);
+}
+
+#controlli{
+    float:right;
+}
