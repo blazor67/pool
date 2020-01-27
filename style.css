@@ -23,4 +23,9 @@ img{
         position: absolute;
         bottom:0;
     }
+
+    img{
+        width:100vw;
+        height:auto;
+    }
 }
